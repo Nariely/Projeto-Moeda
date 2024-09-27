@@ -1,0 +1,10 @@
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\bin\Debug\Conversor de Moedas.exe.config
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\bin\Debug\Conversor de Moedas.exe
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\bin\Debug\Conversor de Moedas.pdb
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\obj\Debug\Conversor de Moedas.csproj.AssemblyReference.cache
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\obj\Debug\Conversor_de_Moedas.Form1.resources
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\obj\Debug\Conversor_de_Moedas.Properties.Resources.resources
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\obj\Debug\Conversor de Moedas.csproj.GenerateResource.cache
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\obj\Debug\Conversor de Moedas.csproj.CoreCompileInputs.cache
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\obj\Debug\Conversor de Moedas.exe
+C:\Users\nariely_santos\source\repos\Conversor de Moedas\obj\Debug\Conversor de Moedas.pdb
